@@ -1,0 +1,14 @@
+[
+    {
+        "login": "qamid@qamid.ru",
+        "pass": "qamid"
+    },
+    {
+        "login": "qamid@qamid.ru",
+        "pass": "1234"
+    },
+    {
+        "login": "qamid@qamid.ru",
+        "pass": " "
+    }
+]
